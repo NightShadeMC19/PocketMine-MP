@@ -33,7 +33,7 @@ level-settings:
 
 chunk-sending:
  #Amount of chunks sent to players per tick
- per-tick: 4
+ per-tick: 2
  #Compression level used when sending chunks. Higher = more CPU, less bandwidth usage
  compression-level: 8
  #Amount of chunks sent around each player
